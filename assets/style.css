@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #e0f0ff;
+    padding: 20px;
+}
+
+.card {
+    background: rgb(207, 248, 250);
+    padding: 20px;
+    border-radius: 12px;
+    width: 450px;
+    margin: auto;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+
+button, input, select {
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #aaa;
+    cursor: pointer;
+}
+
+nav a {
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+img {
+    width: 160px;
+    display: block;
+    margin: auto;
+}
