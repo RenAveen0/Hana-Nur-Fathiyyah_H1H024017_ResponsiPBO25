@@ -8,7 +8,7 @@ Contoh: Hana Nur Fathiyyah_H1H024017_ResponsiPBO25
 - Shift awal: A
 - Tanggal: 29 November 2025
 
-## Deskripsi Singkat Aplikasi
+## Deskripsi Singkat Website
 Aplikasi "PokéCare — Blastoise" adalah simulasi web berbasis PHP native untuk mendemonstrasikan konsep OOP (Encapsulation, Inheritance, Polymorphism, Abstraction) melalui latihan Pokémon. Fitur utama:
 - Halaman Beranda: menampilkan data awal Pokémon (nama, tipe, level, HP, jurus).
 - Halaman Latihan: form training (jenis + intensitas), EXP, leveling, HP, skill unlock per level.
